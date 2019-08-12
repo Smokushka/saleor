@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "smart-depot-249615",
+  "private_key_id": "05d828c01bae5484243b6ee4658b26248eccc180",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC6cdhD6g4zAS1Z\n/1AMl7MKnwIMmndhU9uLreajCR5ad0NYcaKPa5Gc5gIHAeNowBde6A11PlnJC4SD\nLYGeqWkQF5ofnea6DaKFwOypXaziLyT9ZSHQ6JOfhExOd6xZNjh8ZKXlbSGSjqmV\nmi+Z202dvZzkGvGt5PnbzdiPp68B9Mws3LmSVmBLTVjrvZ9m6l0hODHXyhxwZdSm\nroQgz+OjYKOZ2j6iXG0ZaY8Ub2jOdzW0egJ1vG+N6r3RBJSU/mc/trdm0B97jAvA\nXTNZOKEkH2RpHQBj5expYSOKHAZz4SIltII0eRtLaP+ml14E8QeQlQdlpEG8rkG6\nbZAYzdV5AgMBAAECggEAK9NI36Xr0odrTqVZ/qvF9TAtPiMs/p7Ek4+8EAS7ss4n\n8Wk8qfPCFZxnS5hhCSVmGPP4/d87IavoaSFQP6hYvuSdYOMv8fn0gvY3axRO6Bfm\n3P1htoaE9NEXUraEt6+sFWlfKY++fYG1USoeGE9ZbkO81k2TE6ooJUe8qP/kflPR\n6q3Ek2G2ZO5NtPR8A/xhbEpr2Lc8+V3wUMwLAxm/I4051POZJ2hrxonNCuNtnFde\nqWMcPQn34M7UL9GvA+BWDr7b3xIAvsN76JfwNWYuwmGLDlR0eSsAOtolLUWMIXQR\n/cX/0ogICFIOtz1AeeYzN6b/exg9XegGRQfm25Gb1QKBgQD58kVl+/R/7fi1gPvD\nDU98PAmVq0YnYNfhtNN1qWGoJ2tq/PZp0Dt3IOorDYzgppuSlFHzXYvfa/xllMoU\nP9QCW4ew57ZHRHLd0caBYfUHlAVLdBJrn0R5TKrX3AsxdFQU5XLd/+LSMqVN2fTL\nuOyMKN/ToEQS8mVyuv117LvyUwKBgQC+9dkHn8iHh+CvIN7cD0hli6FfHf1sWeef\n+b5G/550Kcaicyeyia5xeeisL/Trb3LT2oOp2vLx5lxFz9Chgm1ZW2tJ3fEd8rpp\nmxo603IgqGAzlNCSLpQ7U/ot+gf3y9le6hNiOSSPL38PySVTlAMRTT+YNWKzdzii\n6M0l7gs3gwKBgGZixebW5PsaokzHf1oRM8QyW8LBnEU5OHWuuwhx0B0vuKLk6JPD\nxvgvtXzZWiIUXZoXw9IrOcbV11hNMNJGqzQkBluDL3nWIi+XZPdPBy6Jhfm4nGsV\nnNkLfNhbvQIPIvpEW19xGJr+QBS5+bsSD2QCwl1QQ1J3lPMAgh8yUHMdAoGAFYeo\ncYidVlKGjZg6KDt84R4OEqhR805rpAjHYD/fwJ8ZKyWqmyGUzmx9RDSf+490NdiU\nMali7M0ZKDHXBu6qn4GEJi7kyYidZdy751gBrRbuycIEhgbEZbABK//duB1+o4nm\np5NjwNUNEV2PXM36TpAUFHgoaa2OcCepQZaGIzsCgYB9MkRE2H6zM9rZNsvT9Uw9\nyzqmPZYuC/EpXGOiE1u1GTcJHK2zKVhARzliUtDozoC5jjURYMc/CNE0Ckgxr2jW\nh+z1MHZ/77lbXC5G/iTs4W3XVcVuUyBl/tGDCpVSPRDkK1ct5tGgGdXOHqlf9bpT\ndvud79/dHJdCeA5ZtDv6qg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "smart-depot-249615@appspot.gserviceaccount.com",
+  "client_id": "107321070141419816118",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/smart-depot-249615%40appspot.gserviceaccount.com"
+}
